@@ -1,5 +1,5 @@
 # Overview
-This project is a simple Docker image that runs [JetBrains IntelliJ IDE](http://www.jetbrains.com/).
+This project is a simple Docker image that runs [MakeMKV](http://www.makemkv.com/)
 
 # Prerequisites
 * a working [Docker](http://docker.io) engine
@@ -27,5 +27,4 @@ to your X server.
 This project is licensed under the [Apache License Version 2.0, January 2004](http://www.apache.org/licenses/).
 
 # List of Changes
-* upgrade to IDEA 2017.3.4
-* automatically detect and mount the user's home directory
+* initial release
